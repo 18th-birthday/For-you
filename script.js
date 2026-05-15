@@ -1017,8 +1017,8 @@ function startHeartRain() {
 const bubbleMessages = [
   "Heyy! 👋",
   "Selamat ulang tahun! 🎂",
-  "Kamu spesial!",
-  "Makasih udah! ✨",
+  "Panjang umur selalu!",
+  "Makasih udah dateng! ✨",
   "Tetap semangat! 🌸",
   "See you!😉",
 ];
